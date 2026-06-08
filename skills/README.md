@@ -8,7 +8,7 @@
 
 | repo | 包含 |
 |------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | skill-creator — 创建新 skill |
+| [anthropics/skills](https://github.com/anthropics/skills) | skill-creator / claude-api — 创建新 skill、构建 Claude API 应用 |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | find-skills — 发现与安装 skill |
 
 ## 软件开发
@@ -18,6 +18,8 @@
 | [obra/superpowers](https://github.com/obra/superpowers) | brainstorming / writing-plans / executing-plans / systematic-debugging / finishing-a-development-branch — 需求→计划→执行→调试→收尾 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | plan→build→review→test→ship 完整 sprint 流程（需 `bun run gen:skill-docs` 生成 SKILL.md） |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | tdd / prototype / improve-codebase-architecture / to-issues / to-prd / zoom-out / triage — TDD、原型、代码审查、任务拆分、问题诊断 |
+| [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | golang-code-style / golang-project-layout / golang-naming / golang-lint / golang-documentation — Go 代码风格、项目布局、命名、lint、文档注释 |
+| [tencent/cloud/cloudbase/cloudbase-skills](https://cnb.cool/tencent/cloud/cloudbase/cloudbase-skills) | miniprogram-development — 微信小程序全流程（cnb.cool 托管） |
 
 ## 前端设计
 
@@ -40,12 +42,14 @@
 | repo | 包含 |
 |------|------|
 | [luoqianyi/easy_anysearch_skill](https://github.com/luoqianyi/easy_anysearch_skill) | easy_anysearch_skill — 免费 web 搜索，公开代理池兜底直连（需 `uv`） |
+| [julianromli/ai-skills](https://github.com/julianromli/ai-skills) | clone-website — 反向工程克隆网站，提取资源/CSS/内容 |
+| [lancelin111/crawl4ai-skill](https://github.com/lancelin111/crawl4ai-skill) | crawl4ai-skill — 网页爬虫，LLM 友好输出，DuckDuckGo 搜索 |
 
 ## 内容处理
 
 | repo | 包含 |
 |------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | docx / xlsx / pptx — Office 文档读写（xlsx 包含 CSV/TSV） |
+| [anthropics/skills](https://github.com/anthropics/skills) | docx / xlsx / pptx / pdf / webapp-testing — Office 文档 + PDF 处理 + Playwright 测试 |
 | [claude-office-skills/skills](https://github.com/claude-office-skills/skills) | pdf-extraction / smart-ocr — PDF 提取 + 中文 OCR |
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | book-converter — EPUB → 格式化 Markdown |
 | [MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill) | yt-dlp 视频下载 — 1000+ 站、MP3 提取、字幕下载、画质选择 |
